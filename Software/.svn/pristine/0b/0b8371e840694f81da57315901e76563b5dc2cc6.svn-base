@@ -1,0 +1,200 @@
+<->
+<F>C:\Temp\SVN\Navigation.cpp
+<c>OPT-02
+<b>Local variable 'count' declared but not used
+<l>117
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\SVN\Navigation.cpp
+<c>OPT-02
+<b>Local variable 'previousNodes' declared but not used
+<l>499
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\SVN\Navigation.cpp
+<c>OPT-33
+<b>Returned value from function 'Dijkstra' is passed by value
+<l>493
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Navigation.h
+<c>INIT-14
+<b>Assignment in constructor 'Navigation' found. Use constructor initialization list instead
+<l>21
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Navigation.h
+<c>OPT-13
+<b>Members 'places' of class 'Navigation' are declared in suboptimal order for memory layout
+<l>9
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Navigation.h
+<c>OOP-34
+<b>Check for assignment to self in operator= in class 'Navigation'
+<l>24
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\SVN\Navigation.cpp
+<c>OPT-02
+<b>Local variable 'count' declared but not used
+<l>117
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Temp\SVN\Navigation.cpp
+<c>OPT-02
+<b>Local variable 'previousNodes' declared but not used
+<l>499
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'Dijkstra' is passed by value
+<l>34
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Navigation.h
+<c>OPT-33
+<b>Returned value from function 'returnNode' is passed by value
+<l>129
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Node.h
+<c>OPT-13
+<b>Members 'm_links, previousNodes' of class 'Node' are declared in suboptimal order for memory layout
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Node.h
+<c>CODSTA-CPP-06
+<b>Member function 'returnArcs' returns handles to member data: 'm_links'
+<l>39
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Node.h
+<c>CODSTA-CPP-06
+<b>Member function 'returnName' returns handles to member data: 'm_name'
+<l>44
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Node.h
+<c>CODSTA-CPP-06
+<b>Member function 'returnPreviousNodes' returns handles to member data: 'previousNodes'
+<l>72
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Arc.h
+<c>INIT-14
+<b>Assignment in constructor 'Arc' found. Use constructor initialization list instead
+<l>16
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Arc.h
+<c>INIT-14
+<b>Assignment in constructor 'Arc' found. Use constructor initialization list instead
+<l>17
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Arc.h
+<c>CODSTA-CPP-81
+<b>Arc: the percentage of getters and setters (100.00) is equal or higher than the threshold (100.00)
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Arc.h
+<c>OPT-13
+<b>Members 'm_mode' of class 'Arc' are declared in suboptimal order for memory layout
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Arc.h
+<c>OOP-34
+<b>Check for assignment to self in operator= in class 'Arc'
+<l>19
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\temp\svn\Arc.h
+<c>CODSTA-CPP-06
+<b>Member function 'returnMode' returns handles to member data: 'm_mode'
+<l>35
+<k>3
+<s>false
+<N>
+<f>
+<L>0
